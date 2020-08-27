@@ -1,8 +1,6 @@
 # Coursera-Capstone
 Coursera IBM Professional Data Science Certificate Capstone
 
-Notes on Git Bash
-
 git commands (through Git Bash):
 
 $git status
