@@ -1,7 +1,7 @@
 # Coursera-Capstone
 Coursera IBM Professional Data Science Certificate Capstone
 
-<h1> git commands (through Git Bash):
+<h1> git commands (through Git Bash): <h1> 
 
 $git status
 (Changes made, they are displayed in red, untracked files are new files
