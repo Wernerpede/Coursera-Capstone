@@ -4,8 +4,8 @@ Coursera IBM Professional Data Science Certificate Capstone
 
 <ul>
   <li> The entire project was compiled and run on Anaconda Spyder. </li>
-  <li> The .html files are for the <i> folium </i> Geospatial plots using <i> Python </i> </li>
-  <li> The folder containing the <i> DataFrame </i> (.csv) is titled <b> DataFrame from Seattle </b> </li>
+  <li> The <i> .html </i> files are for the <i> folium </i> Geospatial plots using <i> Python </i> </li>
+  <li> The folder containing the <i> DataFrame (.csv) </i> is titled <b> DataFrame from Seattle </b> </li>
 </ul>
 
 <h3> git commands (through Git Bash): </h3> 
