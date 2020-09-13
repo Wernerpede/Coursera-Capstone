@@ -2,7 +2,7 @@
 
 Greetings, my name is Guilherme Werner, this GitHub repository contains the DataScience Capstone Report and <i> Python </i> Code for the:
 
-    <b> Coursera IBM Professional Data Science Certificate Capstone </b>
+    Coursera IBM Professional Data Science Certificate Capstone
     
 The present project analyses the Traffic collisions in the city of Seattle over the 16-year period from 2004-2020.
 
