@@ -8,7 +8,7 @@ The present project analyses the Traffic collisions in the city of Seattle over 
 
 <ul>
   <li> The Data Science Report can be found on the folder titled Report. </li>
-          <li> A significant drop in image quality occurred when converting the images of the Report to the .pdf format. </li>
+  <li> A significant drop in image quality occurred when converting the images of the Report from .docx to the .pdf format. </li>
   <li> The entire project was compiled and run on Anaconda Spyder. </li>
   <li> The entire project was compiled and run on Anaconda Spyder. </li>
   <li> The <i> .html </i> files are for the <i> folium </i> Geospatial plots, executed using <i> Python </i> </li>
